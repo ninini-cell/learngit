@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout << "conflict test_lihuasheng" << endl;
+    cout << "conflict test" << endl;
 }
